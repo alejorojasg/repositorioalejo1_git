@@ -1,9 +1,5 @@
-otra linea de curso de Git
+# Curso de _Git_ & _GitHub_
 
-1 mi curso de Git
+Hola soy tu amigo y docente digital Jonathan Mircha, bienvenidos a mi curso.
 
-otra linea de m curso Git
-
-otra linea de m curso Gitgit
-
-git pull
+Agregando mas contenido al README.md
