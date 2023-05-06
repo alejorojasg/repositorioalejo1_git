@@ -1,0 +1,27 @@
+* f45f6dd Agregando 2 parrafos
+* b3d4856 Agregando las estaciones del año
+*   3a87ff7 resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 66aab17 agregando index.js a index.html
+* | 213f614 agregando style.css al index.html
+* |   0f5a46c Merge branch 'css'
+|\ \  
+| * | c5f387e creando style.css
+| |/  
+| * 8e9cf31 Creando index.html
+* | baa4468 creando index.js
+|/  
+* 2145609 creando licencia del repositorio
+* 03fa638 ignorando archivos .exe
+* 5adcd5c creando el .gitignore nuevo
+* d8fca25 arreglando el README
+* 99a225f prueba rama main
+* 302bd57 prueba rama
+* 796ca66 otro cambio
+* 6a7046b probando rama main de nuevo m
+* 8785056 probando rama main de nuevo
+* 15b5f34 probando rama main
+* 211f442 otra prueba de README
+* a3fe3f4 probando para bajar archivo
+* 53958cb otra prueba mas de subir a GitHub
+* 4718a9e nueva prueba

@@ -1,0 +1,139 @@
+commit f45f6ddfc73db09b7d867d0b7799f3fcaa4b6267
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Fri May 5 12:33:40 2023 -0500
+
+    Agregando 2 parrafos
+
+commit b3d48569103944501f4bc8aa855dde948fdd5397
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Fri May 5 12:10:53 2023 -0500
+
+    Agregando las estaciones del año
+
+commit 3a87ff7a0c1223b3cb951e7d75a608f48b1416ac
+Merge: 213f614 66aab17
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Thu May 4 20:44:49 2023 -0500
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 66aab17788034f1aee39f14f7061d101af3f10b2
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Thu May 4 20:34:41 2023 -0500
+
+    agregando index.js a index.html
+
+commit 213f614e6df2739a5ce762897ea0a9688ef02fbe
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Thu May 4 20:30:11 2023 -0500
+
+    agregando style.css al index.html
+
+commit 0f5a46c2aa8b9e02114dd4153c5c576405e00462
+Merge: baa4468 c5f387e
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Wed May 3 19:54:50 2023 -0500
+
+    Merge branch 'css'
+
+commit baa44687dec64559cb9f48aa99ee3e33157a1b44
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Wed May 3 19:43:21 2023 -0500
+
+    creando index.js
+
+commit c5f387e92156a787d476ec590a41f4c16f25727d
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Wed May 3 19:36:25 2023 -0500
+
+    creando style.css
+
+commit 8e9cf313f8917820c8575f28e79a6a233bf9dd4e
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Wed May 3 19:25:22 2023 -0500
+
+    Creando index.html
+
+commit 2145609ee3a88c96f73d1652b15b59761960608f
+Author: alejorojasg <130619075+alejorojasg@users.noreply.github.com>
+Date:   Wed May 3 13:54:43 2023 -0500
+
+    creando licencia del repositorio
+
+commit 03fa63889a745748cbbe02e6cdb4e36b78691129
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Wed May 3 13:46:20 2023 -0500
+
+    ignorando archivos .exe
+
+commit 5adcd5cf8407d571bd6b63382d52ec781e489d6e
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Wed May 3 13:37:27 2023 -0500
+
+    creando el .gitignore nuevo
+
+commit d8fca253afa4ca59af824639927211fe7ef0a60d
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Tue May 2 13:38:09 2023 -0500
+
+    arreglando el README
+
+commit 99a225f6fc4799b8e9c834bf3d3f9af0a11f73d6
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Tue May 2 13:26:31 2023 -0500
+
+    prueba rama main
+
+commit 302bd57e461304d57ce95bf01003a05674127de7
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Tue May 2 13:13:35 2023 -0500
+
+    prueba rama
+
+commit 796ca660fdcab81a704785b334ddcbb5b88b1c26
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Mon May 1 19:49:36 2023 -0500
+
+    otro cambio
+
+commit 6a7046bad12887d15bfdb8727045769269783698
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Mon May 1 19:41:49 2023 -0500
+
+    probando rama main de nuevo m
+
+commit 878505624ebfd5ad53fab483fc6e3a5b3645f3ec
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Mon May 1 19:30:45 2023 -0500
+
+    probando rama main de nuevo
+
+commit 15b5f3473eb6e6d7c491a019f469a841da00ac94
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Mon May 1 19:28:14 2023 -0500
+
+    probando rama main
+
+commit 211f442afbd4e4eb91041c2346713622dd1525f7
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Mon May 1 19:18:40 2023 -0500
+
+    otra prueba de README
+
+commit a3fe3f4fe226f20650769bf1cd4c96ea2df2de1e
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Sun Apr 30 14:42:30 2023 -0500
+
+    probando para bajar archivo
+
+commit 53958cb60b01d236152f6008da3078f377f0a2cc
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Sat Apr 29 19:38:46 2023 -0500
+
+    otra prueba mas de subir a GitHub
+
+commit 4718a9ed303e7551af8c0bdc51b4ec8fa1bdcdec
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Sat Apr 29 19:30:07 2023 -0500
+
+    nueva prueba
