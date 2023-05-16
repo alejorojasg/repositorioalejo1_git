@@ -1,3 +1,42 @@
+commit 5631dc032dff97ab6bbb47cb5dc2d88c741bb56e
+Merge: fa7e51c 6cf9e64
+Author: alejorojasg <130619075+alejorojasg@users.noreply.github.com>
+Date:   Mon May 15 13:39:19 2023 -0500
+
+    Merge pull request #1 from luisitorojas/readme-luisito
+    
+    Readme luisito
+
+commit 6cf9e64ba601f0a12b8936a8afce20cb50cf672f
+Author: luisitorojas <luarojas@hotmail.com>
+Date:   Sat May 13 20:05:13 2023 -0500
+
+    Haciendo mejoras al README del repositorio
+
+commit 265fd59be5405026c80e41fcc56b1261f6ea2ff8
+Author: luisitorojas <luarojas@hotmail.com>
+Date:   Mon May 8 20:02:07 2023 -0500
+
+    cambio de prueba de la segunda cuenta de git
+
+commit fa7e51c042251bc3a283f79fa3790d76453902dd
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Sun May 7 20:03:15 2023 -0500
+
+    agregando imagen de flujo Git y poniendo chulo el index.html
+
+commit 0bce7514cf22aaca9ed51558994ca9de0d8866c7
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Sun May 7 13:54:07 2023 -0500
+
+    v1.0.0
+
+commit 87e9c0941daab15e359e84f0a7c395417a413779
+Author: alejorojasg <luarojas25@gmail.com>
+Date:   Fri May 5 20:31:14 2023 -0500
+
+    respaldando logs del repositorio
+
 commit f45f6ddfc73db09b7d867d0b7799f3fcaa4b6267
 Author: alejorojasg <luarojas25@gmail.com>
 Date:   Fri May 5 12:33:40 2023 -0500
